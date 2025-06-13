@@ -1,0 +1,19 @@
+# gitignore
+# Node
+node_modules/
+build/
+.env
+
+# Java
+*.class
+target/
+*.jar
+
+# Python AI Model
+__pycache__/
+*.pyc
+.env
+
+# OS/System
+.DS_Store
+Thumbs.db
