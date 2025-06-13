@@ -1,1 +1,14 @@
 POST http://localhost:8080/api/recommend
+
+
+It should accept JSON with fields:
+
+json
+Copy code
+{
+  "name": "John",
+  "age": 25,
+  "bmi": 22.5,
+  "preferences": "milk,banana",
+  "budget": 2500
+}
