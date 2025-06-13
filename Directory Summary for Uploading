@@ -1,0 +1,9 @@
+NutriLife/
+├── client/ (React frontend)
+├── server/ (Java backend)
+├── ai-model/ (optional Python AI model)
+├── database/schema.sql
+├── README.md
+├── .gitignore
+├── requirements.txt
+├── LICENSE (optional)
