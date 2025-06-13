@@ -12,3 +12,12 @@ Copy code
   "preferences": "milk,banana",
   "budget": 2500
 }
+
+And return a response like:
+
+json
+Copy code
+[
+  { "name": "Banana", "price": 30, "calories": 90 },
+  { "name": "Oats", "price": 120, "calories": 200 }
+]
