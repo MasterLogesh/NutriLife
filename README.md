@@ -55,3 +55,52 @@ NutriLife/
 ├── .gitignore
 ├── README.md
 └── LICENSE
+
+
+⚙️ Setup Instructions
+🖥️ Frontend (React)
+bash
+Copy code
+cd client
+npm install
+npm start
+🔧 Backend (Spring Boot)
+Import the server directory into your IDE and run the application as a Spring Boot app.
+
+🧠 AI Model (Optional)
+bash
+Copy code
+cd ai-model
+pip install -r requirements.txt
+python model.py
+💡 Future Enhancements
+Nutrition-aware cooking suggestions
+
+Weekly planner and smart shopping list
+
+Integration with e-commerce platforms
+
+AI-powered diet tips and alerts
+
+🙋‍♂️ Author
+Logeshwaran P
+📧 masterlogesh18@gmail.com
+🔗 LinkedIn
+💻 GitHub
+
+📄 License
+This project is licensed under the MIT License. See the LICENSE file for more information.
+
+⭐ If you found this project helpful, please consider starring the repository!
+
+yaml
+Copy code
+
+---
+
+Let me know if you'd like:
+- A **live deployment badge** (e.g., "Deployed on Render")
+- A **demo video** section
+- Or **GitHub Actions CI/CD badge integration**
+
+You're now ready to showcase this proudly on GitHub!
