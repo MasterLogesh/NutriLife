@@ -1,6 +1,16 @@
 import React, { useState } from 'react';
 import axios from 'axios';
 import './App.css';
+import Recommend from './components/Recommend';
+
+function App() {
+  return (
+    <div>
+      <h1>NutriLife</h1>
+      <Recommend />
+    </div>
+  );
+}
 
 function App() {
   const [formData, setFormData] = useState({
