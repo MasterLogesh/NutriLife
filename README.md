@@ -31,8 +31,10 @@ NutriLife is an AI-powered grocery recommendation platform that helps users plan
 
 > Add screenshots here
 >
-> ![Dashboard](screenshots/dashboard.png)
-> ![Package Result](screenshots/package.png)
+> ![Dashboard](![Screenhot Jun 14, 2025, 02_13_53 AM](https://github.com/user-attachments/assets/5bb13df7-5d88-4832-a391-c06deac9e880)
+)
+> ![Package Result](![Screenhot Jun 14, 2025, 02_13_53 AM](https://github.com/user-attachments/assets/743235f4-5c8c-40a9-b6aa-bfb08c8bf7f1)
+)
 
 ---
 
