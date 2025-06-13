@@ -1,0 +1,15 @@
+ How to Run
+Install dependencies:
+
+bash
+Copy code
+pip install flask pandas
+Run the server:
+
+bash
+Copy code
+python model.py
+Test the endpoint (e.g., with Postman or React Axios):
+
+POST http://127.0.0.1:5000/recommend
+
